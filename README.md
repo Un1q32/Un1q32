@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on iPhonePorts, uniqlibc, pfetch, OC2:R
+- 🔭 I’m currently working on iPhonePorts, uniqlibc, pfetch, nbcraft
 - 🌱 I’m know C and POSIX sh
 - 📫 How to reach me:
   - [Here on GitHub](https://github.com/Un1q32/Un1q32/discussions)
