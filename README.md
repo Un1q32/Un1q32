@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on iPhonePorts and nbcraft
+- 🔭 I’m currently working on iPhonePorts and Butterscotch
 - 🌱 I’m know C, C++ and POSIX sh
 - 📫 How to reach me:
   - [Here on GitHub](https://github.com/Un1q32/Un1q32/discussions)
